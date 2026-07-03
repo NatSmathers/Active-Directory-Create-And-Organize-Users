@@ -13,4 +13,4 @@ Windows Server Active Directory (AD DS) home lab creating and establishing a dom
 
 Installed Windows Server and Initiated the Active Directory Domain Services (AD DS) Configuration Wizard to promote the server to a Domain Controller and named it "lab.nate.com".
 
-![The "lab.nate.local" Root Domain Name]()
+The "lab.nate.local" Root Domain Name(Created Domain.png)
